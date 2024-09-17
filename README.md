@@ -1,4 +1,4 @@
-# OCR-Project
+# Resume Data Extraction System
 Task: AI/ML-Based Resume Data Extraction System
 # Scenario:
 Working as an AI Intern at a company that is developing an advanced recruitment automation platform. A key feature of this platform is an AI/ML-based
